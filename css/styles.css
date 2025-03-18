@@ -1,0 +1,24 @@
+*{
+    background-color: lightblue;
+}
+.primer-div{
+    background-color:darkcyan;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    border: 10px outset black;
+}
+.foto-perfil{
+    box-sizing: content-box;
+    width: 241px;
+    height: 180px;;
+    border-radius: 80%;
+    margin: 10px 10px;
+}
+.foto{
+    box-sizing: content-box;
+    width: 231px;
+    height: 173px;
+    border-radius: 80%;
+    border: 5px solid;
+}
