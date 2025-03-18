@@ -22,3 +22,11 @@
     border-radius: 80%;
     border: 5px solid;
 }
+.datos{
+    border: 3px solid black;
+    box-sizing: border-box;
+    padding: 2px;
+    width: 231px;
+    height: 150px;
+    margin: 30px 20px;
+}
