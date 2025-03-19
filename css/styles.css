@@ -4,7 +4,7 @@
 .primer-div{
     background-color:#DAD4EF;
     height: 580px;
-    width: 370px;
+    width: 500px;
     margin: 10px;
     border: 10px outset black;
     display: flex;
@@ -55,4 +55,8 @@ h3{
     background-color: #DAD4EF;
 }
 .perfil{
+    box-sizing: content-box;
+    border: 3px solid black;
+    width: 231px;
+    height: auto;
 }
