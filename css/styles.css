@@ -4,7 +4,7 @@
 .primer-div{
     background-color:#DAD4EF;
     height: 580px;
-    width: 500px;
+    width: 520px;
     margin: 10px;
     border: 10px outset black;
     display: flex;
@@ -59,4 +59,11 @@ h3{
     border: 3px solid black;
     width: 231px;
     height: auto;
+    margin-top: 8%;}
+.estudios{
+    box-sizing: content-box;
+    border: 3px solid black;
+    width: 231px;
+    height: auto;
+    margin-top: 6%;
 }
